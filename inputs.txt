@@ -1,0 +1,25 @@
+create Srilanka
+add Srilanka Pathum 1
+add Srilanka Dimuth 2
+add Srilanka Charith 3
+add Srilanka Kumar 4
+add Srilanka Mahela 5
+add Srilanka Dhananjaya 6
+add Srilanka Nuwan 7
+add Srilanka Dasun 8
+add Srilanka Muralidaran 9
+add Srilanka Hasaranga 10
+add Srilanka Wellalage 11
+create Australia
+add Australia Devid 1
+add Australia Maxwell 2
+add Australia Behrendorff 3
+add Australia George 4
+add Australia Lucifer 5
+add Australia Sam 6
+add Australia Dean 7
+add Australia Mitchell 8
+add Australia Kaine 9
+add Australia Jack 10
+add Australia Balmond 11
+
